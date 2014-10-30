@@ -10,3 +10,7 @@ Package available on Atmospherejs catalog: https://atmospherejs.com/santteegt/jo
 
 Just execute on console: ```meteor add santteegt:jointjs``` and that's it!
 
+Project created by: Christian Stewart <kidovate@gmail.com> - Github: https://github.com/paralin/
+
+Version update by: Santiago González Toral <hernangt12re3@gmail.com>
+
