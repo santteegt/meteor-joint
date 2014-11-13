@@ -1,14 +1,14 @@
 meteor-joint
 ============
-Library for visualization and interaction with diagrams and graphs.
+[JointJS](http://www.jointjs.com/) v0.9.2, a library for visualization and interaction with diagrams and graphs, wrapped for Meteor 0.9+.
 
-JointJS v0.9.2 available for use on Meteor Framework v0.9.3+
+Package available on Atmosphere: https://atmospherejs.com/santteegt/jointjs
 
-Package available on Atmospherejs catalog: https://atmospherejs.com/santteegt/jointjs
+## Installation
 
+    meteor add santteegt:jointjs
 
-
-Just execute on console: ```meteor add santteegt:jointjs``` and that's it!
+## Attributions    
 
 Project created by: Christian Stewart <kidovate@gmail.com> - Github: https://github.com/paralin/
 
